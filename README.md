@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aaron%20Sequeira&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Full-Stack%20AI%20Engineer%20|%20Innovation%20Architect%20|%20ML%20Specialist&descSize=16&descAlignY=51"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aaron%20Sequeira&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Full-Stack%20AI%20Engineer%20%26%20Consultant%20|%20Innovation%20Architect&descSize=16&descAlignY=51"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+Applications+That+Scale;Transforming+Ideas+Into+Production-Ready+Solutions;Architecting+AI-Powered+Digital+Experiences;Driving+Innovation+Through+Code+%26+Intelligence" alt="Typing SVG" />
 
@@ -27,16 +27,16 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```
+```yaml
 name: Aaron Sequeira
-located_in: Doha, Qatar 🇶🇦 | Manipal, India 🇮🇳
-current_role: Associate AI Research Engineer @ Wood Engineering
-education: B.Tech IT, Manipal University (CGPA: 8.0/10)
-company: Wood Engineering | Ex-Mannai Corporation | Ex-Baker Hughes
+located_in: Qatar 🇶🇦 | India 🇮🇳
+current_role: AI Research Engineer (Contract) @ Wood Engineering
+education: B.Tech IT, Manipal University (CGPA: 7.93)
+company: Wood Engineering | Ex-Mannai Corp | Ex-Baker Hughes
 achievements: ["1st Place LearnIT Hackathon", "3rd Place University Hack"]
-interests: ["AI/ML", "Document Intelligence", "Cloud Architecture"]
+interests: ["RAG Systems", "Document Intelligence", "MLOps"]
 motto: "Transforming complex challenges into elegant solutions"
-currently_learning: ["Advanced RAG Systems", "MLOps", "Kubernetes"]
+currently_learning: ["Advanced Agentic AI", "Kubernetes", "Quantum ML"]
 fun_fact: "I debug with coffee and deploy with confidence ☕"
 ```
 
@@ -52,7 +52,7 @@ fun_fact: "I debug with coffee and deploy with confidence ☕"
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,cpp,java,matlab,r&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,cpp,java,matlab,bash&theme=dark" />
 </p>
 
 ### AI/ML & Data Science
@@ -60,34 +60,27 @@ fun_fact: "I debug with coffee and deploy with confidence ☕"
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=ai&logoColor=white" alt="LlamaIndex"/>
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"/>
 </p>
 
 ### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,fastapi,html,css,tailwind,bootstrap,redux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,fastapi,html,css,tailwind,redux&theme=dark" />
 </p>
 
 ### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,jenkins,git,github,gitlab,vercel,netlify,heroku&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,jenkins,git,github,vercel&theme=dark" />
+  <img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Platform"/>
 </p>
 
 ### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,sqlite,firebase&theme=dark" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,sqlite&theme=dark" />
   <img src="https://img.shields.io/badge/Qdrant-FF5733?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" alt="ChromaDB"/>
-</p>
-
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,jupyter,postman,figma,linux,windows&theme=dark" />
 </p>
 
 </div>
@@ -102,43 +95,28 @@ fun_fact: "I debug with coffee and deploy with confidence ☕"
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120">
 </div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Associate AI Research Engineer | Wood Engineering
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> AI Research Engineer (Contract) | Wood Engineering
 **Dec 2025 - Present | Doha, Qatar 🇶🇦**
 
-```
-achievements = {
-    "ml_models": "Training CML asset optimization models (TensorFlow/PyTorch/MATLAB)",
-    "ai_bots": "Built custom data extraction bots → 95% time reduction",
-    "rag_system": "Implemented RAG document search (LangChain + Qdrant) → 80% faster retrieval",
-    "impact": "Revolutionizing industrial asset management with AI"
-}
-```
+- **Asset Optimization:** Training ML models (TensorFlow/PyTorch/MATLAB) for CML asset life optimization.
+- **AI Automation:** Built custom AI bots to extract relevant data, cutting processing time by **97%**.
+- **RAG Implementation:** Delivered a RAG-based internal document search system (LangChain/LlamaIndex + Qdrant), reducing retrieval time by **65%**.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350" align="right">
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Software Engineer | Mannai Corporation
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Software Engineer | Mannai Corporation (Lanco Engineering)
 **Oct 2025 - Dec 2025 | Doha, Qatar 🇶🇦**
 
-- AI monitoring for 1100+ AXIS cameras via Milestone VMS & Ipsotek
-- Computer vision models (YOLO/TensorFlow) → 11% reduction in false alerts
-- Advanced LPR system with OpenCV → 20% faster immigration processing
-- Docker-containerized real-time object detection & violation analysis
+- **Security AI:** Integrated AI monitoring for Border Information System across **1100+ AXIS cameras** via Milestone VMS & Ipsotek.
+- **Computer Vision:** Deployed YOLO/TensorFlow models in Docker containers for real-time violation analysis, reducing false alerts by **11%**.
+- **System Impact:** Enhanced security operations through automated object detection and scalable containerized deployment.
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Full-Stack Developer Intern | Baker Hughes
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Software Engineering Intern | Baker Hughes
 **Sep 2024 - Sep 2025 | Pune, India 🇮🇳**
 
-- Technical Service Portal (Microsoft Power Platform) → **90% downtime reduction**
-- LLM-powered document intelligence (RAG) → **75% less manual data entry**
-- LIMS deployment for PTC/CTC → **40% faster compliance**
-- **25% boost** in operational efficiency across services
-
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Business Associate | ZenTrades.AI
-**Jul 2024 - Sep 2024 | Pune, India 🇮🇳**
-
-- Full-stack MLOps pipeline for sales call analysis
-- **15% improvement** in lead qualification accuracy
-- Technical consulting for US/Canadian clients
-- **20% faster** ticket resolution time
+- **Process Automation:** Architected Technical Service Portal using Microsoft Power Platform, reducing service downtime by **70%** and accelerating compliance by **40%**.
+- **Document Intelligence:** Engineered an end-to-end LLM-powered RAG system (Python/React/Azure AI), cutting manual data entry by **75%**.
+- **CI/CD:** Deployed solutions via robust CI/CD pipelines on Azure, ensuring 99.9% uptime.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -152,65 +130,52 @@ achievements = {
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaron-seq&repo=GenAI-Browser-Tool&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/aaron-seq/GenAI-Browser-Tool">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaron-seq&repo=GenAI-Browser-Tool&theme=tokyonight&hide_border=true" />
+        </a>
         <br><br>
-        <p><b>🥇 1st Place LearnIT Hackathon</b></p>
+        <p><b>🥇 1st Place - LearnIT Hackathon</b></p>
+        <img src="https://img.shields.io/badge/GenAI-FF6F00?style=flat"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/LLM-FF6F00?style=flat"/>
         <img src="https://img.shields.io/badge/RAG-00D4FF?style=flat"/>
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaron-seq&repo=AI-ML-Based-traffic-management-system&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/aaron-seq/AI-ML-Based-traffic-management-system">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaron-seq&repo=AI-ML-Based-traffic-management-system&theme=tokyonight&hide_border=true" />
+        </a>
         <br><br>
-        <p><b>🥉 3rd Place University Hackathon</b></p>
+        <p><b>🥉 3rd Place - University Hackathon 8.0</b></p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Computer_Vision-5C5C5C?style=flat"/>
         <img src="https://img.shields.io/badge/IoT-00979D?style=flat"/>
-        <img src="https://img.shields.io/badge/ML-FF6F00?style=flat"/>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaron-seq&repo=LLM-powered-document-intelligence-system&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/aaron-seq/LLM-powered-document-intelligence-system">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaron-seq&repo=LLM-powered-document-intelligence-system&theme=tokyonight&hide_border=true" />
+        </a>
         <br><br>
-        <p><b> Enterprise Document Intelligence</b></p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <p><b>🏢 Baker Hughes Enterprise System</b></p>
         <img src="https://img.shields.io/badge/Azure_AI-0089D6?style=flat&logo=microsoft-azure"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaron-seq&repo=Portofolio-and-Stock-Price-Predictor&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/aaron-seq/NexusHome_IoT">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaron-seq&repo=NexusHome_IoT&theme=tokyonight&hide_border=true" />
+        </a>
         <br><br>
-        <p><b>Full-Stack Stock Predictor</b></p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ML-FF6F00?style=flat"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaron-seq&repo=NexusHome_IoT&theme=tokyonight&hide_border=true" />
-        <br><br>
-        <p><b>Best Prototype Award</b></p>
+        <p><b>🏆 Best Prototype - ACM Mini Hacks</b></p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white"/>
         <img src="https://img.shields.io/badge/IoT-00979D?style=flat"/>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/aaron-seq?tab=repositories">
-          <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200"/>
-          <br><br>
-          <b>🔍 Explore More Projects</b>
-        </a>
       </div>
     </td>
   </tr>
@@ -253,45 +218,45 @@ achievements = {
   <tr>
     <td align="center" width="25%">
       <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
-      <br><b>90%</b>
-      <br>Service Downtime Reduced
+      <br><b>97%</b>
+      <br>Time Saved (AI Bots)
     </td>
     <td align="center" width="25%">
       <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
       <br><b>75%</b>
-      <br>Manual Data Entry Cut
+      <br>Manual Entry Reduction
     </td>
     <td align="center" width="25%">
       <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
-      <br><b>95%</b>
-      <br>Time Saved with AI Bots
+      <br><b>65%</b>
+      <br>Faster Retrieval (RAG)
     </td>
     <td align="center" width="25%">
       <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
-      <br><b>80%</b>
-      <br>Faster Document Retrieval
+      <br><b>70%</b>
+      <br>Downtime Reduced
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
       <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80"/>
-      <br><b>15%</b>
-      <br>Lead Qualification Boost
-    </td>
-    <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257475-e880a493-c233-43cf-9f7d-0d6f81a11c57.gif" width="80"/>
       <br><b>40%</b>
       <br>Faster Compliance
     </td>
     <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257475-e880a493-c233-43cf-9f7d-0d6f81a11c57.gif" width="80"/>
+      <br><b>11%</b>
+      <br>False Alerts Cut
+    </td>
+    <td align="center" width="25%">
       <img src="https://user-images.githubusercontent.com/74038190/212257464-8e3d3295-84e6-4e51-aa0c-1f8bc0bc3999.gif" width="80"/>
-      <br><b>20%</b>
-      <br>Faster Immigration Processing
+      <br><b>90.6%</b>
+      <br>Class 12 Score
     </td>
     <td align="center" width="25%">
       <img src="https://user-images.githubusercontent.com/74038190/212257470-e7f4b1c4-dfe8-4fa8-ad4b-3d99a5c6dc02.gif" width="80"/>
-      <br><b>11%</b>
-      <br>False Alert Reduction
+      <br><b>7.93</b>
+      <br>B.Tech CGPA
     </td>
   </tr>
 </table>
@@ -310,9 +275,9 @@ achievements = {
 |-------------|-------|----------|------|
 | 🥇 **1st Place** | LearnIT Hackathon | Gen-AI Browser Tool | 2024 |
 | 🥉 **3rd Place** | University Hackathon 8.0 | AI Traffic Management | 2023 |
-| 🏆 **Best Prototype** | ACM Mini Hacks 2.0 | Smart Home Energy System | 2023 |
-| 👨‍💼 **Leadership** | GDSC & ACM Lead | Technical Operations & Mentorship | 2022-2024 |
-| 🎓 **Merit Scholarship** | Qatar Government & Indian Embassy | Academic Excellence | 2021-2025 |
+| 🏆 **Best Prototype** | ACM Mini Hacks 2.0 | Smart Home Energy (C#/.NET) | 2023 |
+| 👨‍💼 **Leadership** | GDSC & ACM Lead | Technical Operations | 2022-2024 |
+| 🎓 **Merit Scholarship** | SPDC (Qatar Govt & Indian Embassy) | Academic Excellence | 2021-2025 |
 
 <br>
 
@@ -330,9 +295,6 @@ achievements = {
 
 <a href="mailto:aaronsequeira12@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="mailto:aaronsequeira12@hotmail.com">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/aaronsequeira/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -365,57 +327,6 @@ achievements = {
       <br><br>
       <b>📱 Phone</b>
       <br>+974 66900150 | +91 9987726291
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35"> **Current Focus & Learning**
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
-
-<br><br>
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
-      <br><b>Advanced RAG Systems</b>
-      <br><sub>Building next-gen document intelligence</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
-      <br><b>MLOps & Kubernetes</b>
-      <br><sub>Scaling ML models in production</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
-      <br><b>AI Ethics</b>
-      <br><sub>Responsible AI implementation</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
-      <br><b>Open Source</b>
-      <br><sub>Contributing to AI/ML projects</sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100"/>
-      <br><b>Mentorship</b>
-      <br><sub>Guiding aspiring developers</sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212257475-e880a493-c233-43cf-9f7d-0d6f81a11c57.gif" width="100"/>
-      <br><b>Research</b>
-      <br><sub>Exploring quantum ML</sub>
     </td>
   </tr>
 </table>
@@ -484,8 +395,8 @@ achievements = {
   <tr>
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60"/>
-      <br><b> Debug Fuel</b>
-      <br>Coffee-driven development
+      <br><b> Elite Coder</b>
+      <br>1600+ LeetCode | 5★ HackerRank
     </td>
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="60"/>
@@ -494,8 +405,8 @@ achievements = {
     </td>
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="60"/>
-      <br><b> Stack Overflow</b>
-      <br>Hero: 10k+ reputation
+      <br><b> Top 250</b>
+      <br>Most Active GitHub User (Qatar)
     </td>
   </tr>
 </table>
