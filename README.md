@@ -85,11 +85,9 @@ Currently working on cutting-edge AI/ML projects and helping organizations lever
 ### AI Research Engineer, Wood Engineering
 **Dec 2025 - Present | Doha, Qatar**
 - Building Wood AI Internal Documentation portal.
-- Automated custom bots for data extraction
-- Automated custom bots for data extraction and alaytics
+- Automated custom bots for data extraction and analytics
 
 ### Software Engineer, Mannai Corporation (Doha, Qatar) 
-**Oct 2025 - Present | Doha, Qatar**
 **Oct 2025 - December 2025 | Doha, Qatar**
 - Developing and integrating AI-driven monitoring for the Border Information System, enhancing security across 1100+ AXIS PTZ/Fixed cameras managed via Milestone VMS & Ipsotek.
 - Deploying computer vision models (YOLO/TensorFlow) in Docker containers for real-time object detection and violation analysis, reducing false alerts by 11%.
